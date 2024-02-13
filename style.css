@@ -161,7 +161,7 @@ address {
     color:#fff;
     font-size: 0.9rem;
     text-align: center;
-    background:rgba(0,0,0,0,6) url(images/top-image_02.jpg) center center/cover no-repeat;
+    background:rgba(0,0,0,0.6) url(images/top-image_02.jpg) center center/cover no-repeat;
     background-blend-mode: darken;
 }
 .footer-logo {
